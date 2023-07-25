@@ -1,1 +1,5 @@
-![snake gif](https://github.com/krissirk0906/krissirk0906/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krissirk0906/krissirk0906/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krissirk0906/krissirk0906/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/krissirk0906/krissirk0906/output/github-contribution-grid-snake.svg">
+</picture>
